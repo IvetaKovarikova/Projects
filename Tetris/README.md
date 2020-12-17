@@ -1,2 +1,2 @@
 
-[Tetris]!(screenshot.png?raw=true "Tetris screenshot")
+![Tetris](screenshot.png?raw=true "Tetris screenshot")
